@@ -2,7 +2,7 @@
 - App is made for **iOS** and written in **Swift 5** with **Xcode**. 
 - Displays all flights from location inputted by user on the inputted date.
 - Retrieves data by utilizing the **Skyscanner API**.
-- Follows MVVM pattern
+- Follows **MVVM** pattern
 
 | Opening App | Make Multiple Searches | Alerts for Wrong Inputs |
 | :---:         |     :---:      |          :---: |
