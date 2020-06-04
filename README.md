@@ -1,6 +1,6 @@
 # AdventureTime
 
-The **goal** for making this app was to become familiar with iOS app development in general, Swift and Xcode.
+The **goal** for making this app was to become familiar with iOS app development in general, Swift, Xcode and APIs.
 
 - App is made for **iOS** and written in **Swift 5** with **Xcode**. 
 - Displays flights to everywhere from location inputted by user on the inputted date. Results are sorted in ascending order with respect to price
