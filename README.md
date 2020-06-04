@@ -12,7 +12,7 @@ The **goal** for making this app was to become familiar with iOS app development
 | ![AdventureTime1](https://media.giphy.com/media/gH8QbWHK0A9I5Pe5OH/giphy.gif)     | ![AdventureTime2](https://media.giphy.com/media/lnVaefKmt8egbcHzD6/giphy.gif)      | ![AdventureTime3](https://media.giphy.com/media/MDbCEGynRBPjEvYqla/giphy.gif)      |
 
 
-## Plans for future iterations:
+### Plans for future iterations:
 
 - Make image displayed behind flights related to the City destination
 - Make flights clickable to display additional data
