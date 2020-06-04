@@ -3,4 +3,4 @@
 - Displays all flights from location inputted by user on the inputted date.
 - Retrieves data by utilizing the **Skyscanner API**.
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![AdventureTime](https://media.giphy.com/media/gH8QbWHK0A9I5Pe5OH/giphy.gif)
