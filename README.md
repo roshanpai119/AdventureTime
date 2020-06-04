@@ -1,5 +1,5 @@
 # AdventureTime
-- App is made for **iOS** and written in **Swift 5**. 
+- App is made for **iOS** and written in **Swift 5** with **Xcode**. 
 - Displays all flights from location inputted by user on the inputted date.
 - Retrieves data by utilizing the **Skyscanner API**.
 
