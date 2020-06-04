@@ -14,6 +14,6 @@ The **goal** for making this app was to become familiar with iOS app development
 
 ### Plans for future iterations:
 
-- Make image displayed behind flights related to the City destination
-- Make flights clickable to display additional data
+- Make image displayed behind flights related to the destination City
+- Make flights display additional data when clicked
 - Allow user to book a flight (either directly or via link to third-party)
